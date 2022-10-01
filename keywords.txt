@@ -1,0 +1,14 @@
+# Datatypes (KEYWORD1)
+chernozem KEYWORD1
+
+# Methods and Functions (KEYWORD2)
+isTerm KEYWORD2
+wantNotTerm KEYWORD2
+readInt KEYWORD2
+readString KEYWORD2
+readChar KEYWORD2
+print KEYWORD2
+
+# Constants (LITERAL1)
+tout LITERAL1
+serTerm LITERAL1
